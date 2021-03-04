@@ -42,7 +42,8 @@ __Reference :__
 __https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures__
 
 __https://interactive.unwomen.org/multimedia/infographic/violenceagainstwomen/en/index.html#home-2__
-      
+
+- - - -      
       
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/National%20Crime%20Records%20Bureau.jpg">      
 
@@ -65,9 +66,11 @@ The crime rate registered per lakh women population stood at 62.4 in 2019 in com
 
 __Reference : https://bit.ly/3uMLyPE__
 
+- - - -
+
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Analysis%202.jpg">      
 
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Reuters.jpg">      
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Reuters.jpg" width="20%">      
 
 __Statistics on rape in India and some well-known cases__
 
