@@ -120,6 +120,8 @@ __Reference : https://www.reuters.com/article/us-india-rape-factbox-idUSKBN1YA0U
 
 ### Evaluation of the Proposed Solution ###
 
+<a href="https://youtu.be/yTFO9huYuPo" target="_blank"><img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/AI%20powered%20Women%20Violence%20Detection.jpeg" 
+alt="AI powered Women Violence Detection" width="75%" /></a> 
 
 - - - -
 
