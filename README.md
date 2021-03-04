@@ -68,9 +68,9 @@ __Reference : https://bit.ly/3uMLyPE__
 
 - - - -
 
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Analysis%202.jpg">      
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Reuters.jpg" width="20%">  
 
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Reuters.jpg" width="20%">      
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Analysis%202.jpg">          
 
 __Statistics on rape in India and some well-known cases__
 
