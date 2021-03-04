@@ -86,9 +86,9 @@ __Reference : https://www.reuters.com/article/us-india-rape-factbox-idUSKBN1YA0U
 
 | Topic | Description |
 | ---------- | ---------- |
-| Goal of the Project | How Latest Technologies Like AI can be leveraged to detect  crime against Women. <br> AI Powered Violence Detection from Real-time CCTV Footage to create a smart, safe environment for women. |
-| What is Unique about this Project | Probably first of its kind Initiative in India ( AI for social good ). <br> To identify dangerous environments and respond effectively to the violent interactions with Women. |
-| Benefits | The integration of AI powered violence detection technology into the  existing CCTV surveillance system allows to: <br> Dramatically reduce the processing time of the CCTV footages. <br> Free surveillance staff to cope with major non-monitoring security tasks. <br> Improve decision-making. <br> Help in law enforcement and crime prevention. <br> Extract revealing insights from visual data. |
+| Goal of the Project | How Latest Technologies Like AI can be leveraged to detect  crime against Women. <br><br> AI Powered Violence Detection from Real-time CCTV Footage to create a smart, safe environment for women. |
+| What is Unique about this Project | Probably first of its kind Initiative in India ( AI for social good ). <br><br> To identify dangerous environments and respond effectively to the violent interactions with Women. |
+| Benefits | The integration of AI powered violence detection technology into the  existing CCTV surveillance system allows to: <br><br> Dramatically reduce the processing time of the CCTV footages. <br><br> Free surveillance staff to cope with major non-monitoring security tasks. <br><br> Improve decision-making. <br><br> Help in law enforcement and crime prevention. <br><br> Extract revealing insights from visual data. |
 | Areas of Application | Schools, Parks, Airports, Railway Stations , Indoor and Outdoor public spaces, Shopping Malls entertainment venues etc. |
 
 ### Solution Workflow ###
