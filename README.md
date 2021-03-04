@@ -132,6 +132,41 @@ __The body pose model provides a total amount of 18 keypoints per person.__
 
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Lying%20Algorithm.jpg" width="48%">
 
+## Prerequisites
+
+You will need 
+
+1. DeepStreamSDK 5.0
+
+2. CUDA 10.2
+
+3. TensorRT 7.x
+
+
+## Getting Started:
+
+To get started, please follow these steps.
+
+1. Install [DeepStream](https://developer.nvidia.com/deepstream-sdk) on your platform, verify it is working by running deepstream-app.
+
+2. Clone the repository preferably in `$DEEPSTREAM_DIR/sources/apps/sample_apps`.
+
+3. Replace the OSD binaries (x86 or Jetson) in `$DEEPSTREAM_DIR/libs` with the ones provided in this repository under `bin/`. Please note that these are not inter-compatible across platforms.
+
+4. Compile the program
+ 
+ ```
+  $ cd deepstream-pose-estimation/
+  $ sudo make
+  $ sudo ./deepstream-pose-estimation-app <file-uri> <output-path>
+```
+
+5. The final output is stored in 'output-path' as `Pose_Estimation.mp4`
+
+6. In the deepstream_pose_estimation_app.cpp file only detects kicks on night vision. so if you check the other violence action use the different_violences folder codes.
+
+NOTE: If you do not already have a .trt engine generated from the ONNX model you provided to DeepStream, an engine will be created on the first run of the application. Depending upon the system you’re using, this may take anywhere from 4 to 10 minutes.
+
 ### Evaluation of the Proposed Solution ###
 
 <a href="https://youtu.be/yTFO9huYuPo" target="_blank"><img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/AI%20powered%20Women%20Violence%20Detection.jpeg" 
