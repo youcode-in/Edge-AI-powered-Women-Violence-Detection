@@ -52,16 +52,21 @@ __https://interactive.unwomen.org/multimedia/infographic/violenceagainstwomen/en
 
 As per the Report from Government of India __National Crime Records Bureau (NCRB)__ published on __September 29, 2020__
 
-2018 Total Number of Cases of Crime Against Women = 3,78,236 cases 
-2019 Total Number of Cases of Crime Against Women = 4,05,861 cases  
+2018 Total Number of Cases of Crime Against Women = 3,78,236 cases
+
+2019 Total Number of Cases of Crime Against Women = 4,05,861 cases 
+
 India recorded an average of 87 rape cases daily in 2019 
 
 2018 Reported Rape cases= 33,356 
+
 2019 Reported Rape cases = 32,033 (7.3% of all crimes against women) 
 
 Majority of these cases under Indian Penal Code were registered under 
-‘cruelty by husband or his relatives’ (30.9 per cent) 
-‘Assault on women with intent to outrage her modesty’ (21.8 per cent), 
+‘cruelty by husband or his relatives’ (30.9 per cent), 
+
+‘Assault on women with intent to outrage her modesty’ (21.8 per cent),
+
 ‘kidnapping and abduction of women’ (17.9 per cent), the NCRB data for 2019 showed
 
 The crime rate registered per lakh women population stood at 62.4 in 2019 in comparison with 58.8 in 2018, it showed
@@ -98,6 +103,8 @@ __Reference : https://www.reuters.com/article/us-india-rape-factbox-idUSKBN1YA0U
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Solution%20Workflow.jpeg">
 
 ### Algorithms ###
+
+__The body pose model provides a total amount of 18 keypoints per person.__
 
 <p float-"left">
 
