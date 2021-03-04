@@ -160,9 +160,11 @@ To get started, please follow these steps.
 
 2. Clone the repository preferably in `$DEEPSTREAM_DIR/sources/apps/sample_apps`.
 
-3. Replace the OSD binaries (x86 or Jetson) in `$DEEPSTREAM_DIR/libs` with the ones provided in this repository under `bin/`. Please note that these are not inter-compatible across platforms.
+3.Download the Nvidia deepstream pose estimation models at https://drive.google.com/drive/folders/1vNVxDTPC-mRLIQcQ91gEjxit0aNLeIGU?usp=sharing
 
-4. Compile the program
+4. Replace the OSD binaries (x86 or Jetson) in `$DEEPSTREAM_DIR/libs` with the ones provided in this repository under `bin/`. Please note that these are not inter-compatible across platforms.
+
+5. Compile the program
  
  ```
   $ cd deepstream-pose-estimation/
@@ -170,9 +172,9 @@ To get started, please follow these steps.
   $ sudo ./deepstream-pose-estimation-app <file-uri> <output-path>
 ```
 
-5. The final output is stored in 'output-path' as `Pose_Estimation.mp4`
+6. The final output is stored in 'output-path' as `Pose_Estimation.mp4`
 
-6. In the deepstream_pose_estimation_app.cpp file only detects kicks on night vision. so if you check the other violence action use the different_violences folder codes.
+7. In the deepstream_pose_estimation_app.cpp file only detects kicks on night vision. so if you check the other violence action use the different_violences folder codes.
 
 NOTE: If you do not already have a .trt engine generated from the ONNX model you provided to DeepStream, an engine will be created on the first run of the application. Depending upon the system you’re using, this may take anywhere from 4 to 10 minutes.
 
