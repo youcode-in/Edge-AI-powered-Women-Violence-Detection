@@ -86,8 +86,7 @@ __Reference : https://www.reuters.com/article/us-india-rape-factbox-idUSKBN1YA0U
 
 | Topic | Description |
 | ---------- | ---------- |
-| Goal of the Project | How Latest Technologies Like AI can be leveraged to detect  crime against Women. 
-                        AI Powered Violence Detection from Real-time CCTV Footage to create a smart, safe environment for women. |
+| Goal of the Project | How Latest Technologies Like AI can be leveraged to detect  crime against Women. /n AI Powered Violence Detection from Real-time CCTV Footage to create a smart, safe environment for women. |
 | What is Unique about this Project | Probably first of its kind Initiative in India ( AI for social good ) 
                                       To identify dangerous environments and respond effectively to the violent interactions with Women. |
 | Benefits | The integration of AI powered violence detection technology into the  existing CCTV surveillance system allows to:
