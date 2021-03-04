@@ -26,7 +26,9 @@
 
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Analysis%201.jpg">
 
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/UN%20Women.jpg">
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/UN%20Women.jpg" width="50%">
+
+#### Key Facts ####
 
 * Globally, 35 per cent of women have ever experienced physical and/or sexual intimate partner violence, or sexual violence by a non-partner.
 * 137 women are killed by a member of their family every day
