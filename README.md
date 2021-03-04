@@ -9,6 +9,8 @@
   * [Solution Workflow](https://github.com/youcode-in/Violence-against-Women#solution-workflow)
   * [Algorithms](https://github.com/youcode-in/Violence-against-Women#algorithms)
   * [Evaluation of the Proposed Solution](https://github.com/youcode-in/Violence-against-Women#evaluation-of-the-proposed-solution)
+* [Prerequisites](https://github.com/youcode-in/Violence-against-Women#prerequisites)
+* [Getting Started](https://github.com/youcode-in/Violence-against-Women#getting-started)
 * [Conclusion](https://github.com/youcode-in/Violence-against-Women#conclusion)
 * [Contact Us](https://github.com/youcode-in/Violence-against-Women#contact-us)
 * [Rebounding from COVID-19](https://github.com/youcode-in/Violence-against-Women#rebounding-from-covid-19)
@@ -132,6 +134,13 @@ __The body pose model provides a total amount of 18 keypoints per person.__
 
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Lying%20Algorithm.jpg" width="48%">
 
+### Evaluation of the Proposed Solution ###
+
+<a href="https://youtu.be/yTFO9huYuPo" target="_blank"><img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/AI%20powered%20Women%20Violence%20Detection.jpeg" 
+alt="AI powered Women Violence Detection" width="75%" /></a> 
+
+- - - -
+
 ## Prerequisites
 
 You will need 
@@ -167,12 +176,7 @@ To get started, please follow these steps.
 
 NOTE: If you do not already have a .trt engine generated from the ONNX model you provided to DeepStream, an engine will be created on the first run of the application. Depending upon the system you’re using, this may take anywhere from 4 to 10 minutes.
 
-### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/yTFO9huYuPo" target="_blank"><img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/AI%20powered%20Women%20Violence%20Detection.jpeg" 
-alt="AI powered Women Violence Detection" width="75%" /></a> 
-
-- - - -
 
 ## Conclusion ##
 
