@@ -100,9 +100,9 @@ __Reference : https://www.reuters.com/article/us-india-rape-factbox-idUSKBN1YA0U
 
 ### Algorithms ###
 
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Kick%20Algorithm.jpg" width="49%">
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Kick%20Algorithm.jpg" width="40%">
 
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Lying%20on%20Ground%20Algorithm.jpg" width="50%">
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Lying%20on%20Ground%20Algorithm.jpg" width="40%">
 
 ### Evaluation of the Proposed Solution ###
 
