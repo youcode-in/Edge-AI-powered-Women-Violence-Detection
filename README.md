@@ -26,23 +26,6 @@ Jetson deepstream based Project to detect Violence against Women.We have built a
 * Normal Scenario 
 * Slap
 
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Youcode.jpg">
-
-YOUCODE INTELLIGENCE SOLUTIONS 
-
-www.youcodeindia.com
-
-Email:youcodeindia@gmail.com
-
-
-
-https://www.linkedin.com/company/1445...​
-https://twitter.com/TeamYouCode​
-https://www.facebook.com/TeamYouCode/​
-https://www.youtube.com/channel/UCcgZ...​ 
-https://www.instagram.com/youcode_in/​
-
-
 - - - -
 
 ## The Problem ##
