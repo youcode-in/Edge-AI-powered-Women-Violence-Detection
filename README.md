@@ -26,6 +26,8 @@
 
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Analysis%201.jpg">
 
+- - - -
+
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/UN%20Women.jpg" width="20%">
 
 #### Key Facts ####
