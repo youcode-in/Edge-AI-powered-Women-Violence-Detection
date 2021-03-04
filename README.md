@@ -2,16 +2,16 @@
 
 ## Table of Contents ##
 
-* [Introduction](https://github.com/Karthikkannan-AI/Traffic-Management-AI#introduction)
-* [The Problem](https://github.com/Karthikkannan-AI/Traffic-Management-AI#the-problem)
-  * [Analysis of the Problem](https://github.com/Karthikkannan-AI/Traffic-Management-AI#analysis-of-the-problem)
-* [Proposed Solution](https://github.com/Karthikkannan-AI/Traffic-Management-AI#proposed-solution)
-  * [AI on the edge](https://github.com/Karthikkannan-AI/Traffic-Management-AI/blob/main/README.md#ai-on-the-edge-cctv)  
-  * [Solution Workflow](https://github.com/Karthikkannan-AI/Traffic-Management-AI#solution-workflow)
-  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Traffic-Management-AI#evaluation-of-the-proposed-solution)
-* [Conclusion](https://github.com/Karthikkannan-AI/Traffic-Management-AI#conclusion)
-* [Contact Us](https://github.com/Karthikkannan-AI/Traffic-Management-AI#contact-us)
-* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/Traffic-Management-AI#rebounding-from-covid-19)
+* [Introduction]()
+* [The Problem]()
+  * [Analysis of the Problem]()
+* [Proposed Solution]()
+  * [AI on the edge]()  
+  * [Solution Workflow]()
+  * [Evaluation of the Proposed Solution]()
+* [Conclusion]()
+* [Contact Us]()
+* [Rebounding from COVID-19]()
 
 - - - -
 
@@ -24,6 +24,52 @@
 
 ### Analysis of the Problem ###
 
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Analysis%201.jpg">
+
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/UN%20Women.jpg">
+
+* Globally, 35 per cent of women have ever experienced physical and/or sexual intimate partner violence, or sexual violence by a non-partner.
+* 137 women are killed by a member of their family every day
+* Less than 40 per cent of the women who experience violence seek help of any sort.
+* At least 155 countries have passed laws on domestic violence, and 140 have laws on sexual harassment in the workplace
+* 15 million adolescent girls worldwide, aged 15–19 years, have experienced forced sex. 
+* In the Middle East and North Africa, 40–60 per cent of women have experienced street-based sexual harassment
+
+__Reference :__
+
+__https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures__
+
+__https://interactive.unwomen.org/multimedia/infographic/violenceagainstwomen/en/index.html#home-2__
+      
+      
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/National%20Crime%20Records%20Bureau.jpg">      
+
+
+As per the Report from Government of India __National Crime Records Bureau (NCRB)__ published on __September 29, 2020__
+
+2018 Total Number of Cases of Crime Against Women = 3,78,236 cases 
+2019 Total Number of Cases of Crime Against Women = 4,05,861 cases  
+India recorded an average of 87 rape cases daily in 2019 
+
+2018 Reported Rape cases= 33,356 
+2019 Reported Rape cases = 32,033 (7.3% of all crimes against women) 
+
+Majority of these cases under Indian Penal Code were registered under 
+‘cruelty by husband or his relatives’ (30.9 per cent) 
+‘Assault on women with intent to outrage her modesty’ (21.8 per cent), 
+‘kidnapping and abduction of women’ (17.9 per cent), the NCRB data for 2019 showed
+
+The crime rate registered per lakh women population stood at 62.4 in 2019 in comparison with 58.8 in 2018, it showed
+
+__Reference : https://bit.ly/3uMLyPE__
+
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Analysis%202.jpg">      
+
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Reuters.jpg">      
+
+__Statistics on rape in India and some well-known cases__
+
+__Reference : https://www.reuters.com/article/us-india-rape-factbox-idUSKBN1YA0UV__
 
 - - - -
 
