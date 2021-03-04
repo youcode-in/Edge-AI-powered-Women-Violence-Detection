@@ -17,6 +17,31 @@
 
 ## Introduction ##
 
+Jetson deepstream based Project to detect Violence against Women.We have built a custom code on top of the Human Pose estimation model to detect human poses during Violence and classify them as  
+
+* Neck Grab 
+* Punch 
+* Kick 
+* Lying Down 
+* Normal Scenario 
+* Slap
+
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Youcode.jpg">
+
+YOUCODE INTELLIGENCE SOLUTIONS 
+
+www.youcodeindia.com
+
+Email:youcodeindia@gmail.com
+
+
+
+https://www.linkedin.com/company/1445...​
+https://twitter.com/TeamYouCode​
+https://www.facebook.com/TeamYouCode/​
+https://www.youtube.com/channel/UCcgZ...​ 
+https://www.instagram.com/youcode_in/​
+
 
 - - - -
 
