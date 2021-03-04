@@ -104,9 +104,19 @@ __Reference : https://www.reuters.com/article/us-india-rape-factbox-idUSKBN1YA0U
 
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Kick%20Algorithm.jpg" width="48%">
 
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Lying%20on%20Ground%20Algorithm.jpg" width="48%">
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Slap%20Algorithm.jpg" width="48%">
 
 </p>
+
+<p float-"left">
+
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Neckgrab%20Algorithm.jpg" width="48%">
+
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Punch%20Algorithm.jpg" width="48%">
+
+</p>
+
+<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Women%20Violence%20Lying%20Algorithm.jpg">
 
 ### Evaluation of the Proposed Solution ###
 
