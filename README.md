@@ -157,7 +157,7 @@ To get started, please follow these steps.
 
 2. Clone the repository preferably in `$DEEPSTREAM_DIR/sources/apps/sample_apps`.
 
-  3.Download the [Nvidia deepstream pose estimation models](https://drive.google.com/drive/folders/1vNVxDTPC-mRLIQcQ91gEjxit0aNLeIGU?usp=sharing)
+ 3.Download the [Nvidia deepstream pose estimation models](https://drive.google.com/drive/folders/1vNVxDTPC-mRLIQcQ91gEjxit0aNLeIGU?usp=sharing)
 
 4. Replace the OSD binaries (x86 or Jetson) in `$DEEPSTREAM_DIR/libs` with the ones provided in this repository under `bin/`. Please note that these are not inter-compatible across platforms.
 
