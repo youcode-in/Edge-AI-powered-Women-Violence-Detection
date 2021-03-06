@@ -107,7 +107,7 @@ create_display_meta(Vec2D<int> &objects, Vec3D<float> &normalized_peaks, NvDsFra
           nvds_add_display_meta_to_frame(frame_meta, dmeta);
         }
         NvOSD_CircleParams &cparams = dmeta->circle_params[dmeta->num_circles];
-	person1 +=1;
+//	person1 +=1;
 //        person2 +=1;
         cparams.xc = x;
         cparams.yc = y;
