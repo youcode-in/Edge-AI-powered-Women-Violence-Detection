@@ -107,7 +107,7 @@ create_display_meta(Vec2D<int> &objects, Vec3D<float> &normalized_peaks, NvDsFra
           nvds_add_display_meta_to_frame(frame_meta, dmeta);
         }
         NvOSD_CircleParams &cparams = dmeta->circle_params[dmeta->num_circles];
-	person1 +=1;
+//	person1 +=1;
 //        person2 +=1;
         cparams.xc = x;
         cparams.yc = y;
@@ -315,7 +315,7 @@ osd_sink_pad_buffer_probe(GstPad *pad, GstPadProbeInfo *info,
 	    txt_params = &display_meta->text_params[1];
 	    display_meta->num_labels = 2;
 	    txt_params->display_text = (gchar *) g_malloc0 (MAX_DISPLAY_LEN);
-	    offset = snprintf (txt_params->display_text, MAX_DISPLAY_LEN, "kick");
+	    offset = snprintf (txt_params->display_text, MAX_DISPLAY_LEN, "Kick");
 	
 	    /* Now set the offsets where the string should appear */
 	    txt_params->x_offset = 10;
@@ -342,7 +342,7 @@ osd_sink_pad_buffer_probe(GstPad *pad, GstPadProbeInfo *info,
 	    txt_params = &display_meta->text_params[1];
 	    display_meta->num_labels = 2;
 	    txt_params->display_text = (gchar *) g_malloc0 (MAX_DISPLAY_LEN);
-	    offset = snprintf (txt_params->display_text, MAX_DISPLAY_LEN, "Nomal");
+	    offset = snprintf (txt_params->display_text, MAX_DISPLAY_LEN, "Normal");
 	
 	    /* Now set the offsets where the string should appear */
 	    txt_params->x_offset = 10;
