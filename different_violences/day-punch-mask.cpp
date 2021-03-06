@@ -349,7 +349,7 @@ osd_sink_pad_buffer_probe(GstPad *pad, GstPadProbeInfo *info,
 	    txt_params = &display_meta->text_params[1];
 	    display_meta->num_labels = 2;
 	    txt_params->display_text = (gchar *) g_malloc0 (MAX_DISPLAY_LEN);
-	    offset = snprintf (txt_params->display_text, MAX_DISPLAY_LEN, "Nomal");
+	    offset = snprintf (txt_params->display_text, MAX_DISPLAY_LEN, "Normal");
 	
 	    /* Now set the offsets where the string should appear */
 	    txt_params->x_offset = 10;
