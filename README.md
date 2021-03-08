@@ -1,4 +1,4 @@
-# Violence-against-Women
+# Edge AI powered Woman Violence Detection
 
 ## Table of Contents ##
 
