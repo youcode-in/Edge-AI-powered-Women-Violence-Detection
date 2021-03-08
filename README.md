@@ -172,3 +172,24 @@ We have presented a technique for violence detection on women based on human Pos
 __https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures__
 
 __https://interactive.unwomen.org/multimedia/infographic/violenceagainstwomen/en/index.html#home-2__
+
+__India Today News - No country for women: India reported 88 rape cases every day in 2019__
+__http://bit.ly/2PcN5hr__
+
+__Reuters News - One woman reports a rape every 15 minutes in India__
+__http://reut.rs/3dPLYOW__
+
+__Reuters News - Statistics on rape in India and some well-known cases__
+__http://reut.rs/3krzfmQ__
+
+__Average 87 Rape Cases Daily, Over 7% Rise in Crimes Against Women in 2019: NCRB Data__
+__http://bit.ly/3uMLyPE__
+
+__UN Women__
+__https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures__
+
+__https://interactive.unwomen.org/multimedia/infographic/violenceagainstwomen/en/index.html#home-2__
+
+
+
+
