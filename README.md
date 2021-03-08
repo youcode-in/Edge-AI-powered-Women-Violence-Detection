@@ -9,7 +9,7 @@
   * [Solution Workflow](https://github.com/youcode-in/Violence-against-Women#solution-workflow)
   * [Algorithms](https://github.com/youcode-in/Violence-against-Women#algorithms)
   * [Evaluation of the Proposed Solution](https://github.com/youcode-in/Violence-against-Women#evaluation-of-the-proposed-solution)
-* [Prerequisites](https://github.com/youcode-in/Violence-against-Women#prerequisites)
+* [Deployment in NVIDIA Deepstream](https://github.com/youcode-in/Violence-against-Women#deployment-in-nvidia-deepstream)
 * [Getting Started](https://github.com/youcode-in/Violence-against-Women#getting-started)
 
 - - - -
@@ -46,11 +46,6 @@ Jetson deepstream based Project to detect Violence against Women.We have built a
 * 15 million adolescent girls worldwide, aged 15–19 years, have experienced forced sex. 
 * In the Middle East and North Africa, 40–60 per cent of women have experienced street-based sexual harassment
 
-__Reference :__
-
-__https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures__
-
-__https://interactive.unwomen.org/multimedia/infographic/violenceagainstwomen/en/index.html#home-2__
 
 - - - -      
       
@@ -78,18 +73,6 @@ Majority of these cases under Indian Penal Code were registered under
 
 The crime rate registered per lakh women population stood at 62.4 in 2019 in comparison with 58.8 in 2018, it showed
 
-__Reference : https://bit.ly/3uMLyPE__
-
-- - - -
-
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Reuters.jpg" width="20%">  
-
-<img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Analysis%202.jpg">          
-
-__Statistics on rape in India and some well-known cases__
-
-__Reference : https://www.reuters.com/article/us-india-rape-factbox-idUSKBN1YA0UV__
-
 - - - -
 
 ## Proposed Solution ##
@@ -103,7 +86,7 @@ __Reference : https://www.reuters.com/article/us-india-rape-factbox-idUSKBN1YA0U
 | Benefits | The integration of AI powered violence detection technology into the  existing CCTV surveillance system allows to: <br> Dramatically reduce the processing time of the CCTV footages. <br> Free surveillance staff to cope with major non-monitoring security tasks. <br> Improve decision-making. <br> Help in law enforcement and crime prevention. <br> Extract revealing insights from visual data. |
 | Areas of Application | Schools, Parks, Airports, Railway Stations , Indoor and Outdoor public spaces, Shopping Malls entertainment venues etc. |
 
-### Solution Workflow ###
+### Solution Workflow ###Prerequisites
 
 <img src="https://github.com/youcode-in/Violence-against-Women/blob/main/resources/Workflow%20Visualization.jpeg">
 
@@ -138,7 +121,7 @@ alt="AI powered Women Violence Detection" width="75%" /></a>
 
 - - - -
 
-## Prerequisites
+## Deployment in NVIDIA Deepstream ###
 
 You will need 
 
@@ -147,6 +130,8 @@ You will need
 2. CUDA 10.2
 
 3. TensorRT 7.x
+
+Note : We have tested and deployed in Jetson Nano.
 
 
 ## Getting Started:
@@ -174,3 +159,16 @@ To get started, please follow these steps.
 7. In the deepstream_pose_estimation_app.cpp file only detects kicks on night vision. so if you check the other violence action use the different_violences folder codes.
 
 NOTE: If you do not already have a .trt engine generated from the ONNX model you provided to DeepStream, an engine will be created on the first run of the application. Depending upon the system you’re using, this may take anywhere from 4 to 10 minutes.
+
+## Conclusion ##
+
+
+We have presented a technique for violence detection on women based on human Pose Tracking.This is done for demonstration purpose. Further work is needed to improve the Violence Classification Algorithm. We have made this as an open source so that more people can work on it and bring real solutions sooner than later.
+
+- - - -
+
+## References ##
+
+__https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures__
+
+__https://interactive.unwomen.org/multimedia/infographic/violenceagainstwomen/en/index.html#home-2__
