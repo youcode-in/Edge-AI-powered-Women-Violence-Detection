@@ -169,9 +169,6 @@ We have presented a technique for violence detection on women based on human Pos
 
 ## References ##
 
-__https://www.unwomen.org/en/what-we-do/ending-violence-against-women/facts-and-figures__
-
-__https://interactive.unwomen.org/multimedia/infographic/violenceagainstwomen/en/index.html#home-2__
 
 __India Today News - No country for women: India reported 88 rape cases every day in 2019__
 __http://bit.ly/2PcN5hr__
